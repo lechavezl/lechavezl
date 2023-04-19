@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lechavezl/lechavezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi everybody, my name is Luis Chavez and I'm 24 years old. I will share a little more about myself below:
+### Hi there 👋 my name is Luis Chavez and I'm 24 years old. I will share a little more about myself below:
 
 - 💻 I am pursuing an Applied Technology BS degree at BYU-Idaho.
 - 🎓 In April 2023 I completed my first certificate in Web & Computer Programming.
